@@ -1,2 +1,3 @@
-# nautilus-core
-Core smart contracts for Nautilus
+# Nautilus
+
+This repository contains the core smart contracts for Nautilus. 
