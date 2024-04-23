@@ -1,9 +1,8 @@
-# Nautilus
+# Nautilus core
 
 This repository contains the core smart contracts for Nautilus. 
 
-![nautilus-core](https://github.com/NautilusOSS/nautilus-core/assets/23183451/c968d278-d37b-48e4-9d15-513167eadc38)
-
+![nautilus-core](https://github.com/NautilusOSS/nautilus-core/assets/23183451/59690567-b6eb-48ed-aac6-eadbd8005abb)
 
 ## Smart contracts
 
