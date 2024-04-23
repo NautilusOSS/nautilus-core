@@ -2,6 +2,9 @@
 
 This repository contains the core smart contracts for Nautilus. 
 
+![nautilus-core](https://github.com/NautilusOSS/nautilus-core/assets/23183451/c968d278-d37b-48e4-9d15-513167eadc38)
+
+
 ## Smart contracts
 
 - mp200 inactive
