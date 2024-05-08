@@ -3,7 +3,7 @@
 **artifacts**
 
 - teal
-- arc4 contract.json
+- arc4 [contract.json](https://github.com/NautilusOSS/nautilus-core/blob/main/smart-contracts/mp206/artifact/contract.json)
 - compiler output
 
 **scripts**
