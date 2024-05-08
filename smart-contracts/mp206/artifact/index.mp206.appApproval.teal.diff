@@ -1,0 +1,15 @@
+1c1
+< #pragma version 8
+---
+> #pragma version 9 // mod
+24c24
+< pushbytess base64(DHkeew==) base64(Df7RaQ==) base64(JAwmJw==) base64(M26NXw==) base64(Uh4tYQ==) base64(WHWfog==) base64(Z0NAMQ==) base64(jxmvYg==) base64(lrdyyQ==) base64(pArgdA==) base64(pONJzg==) base64(yfUpOw==) base64(1YEBLQ==) base64(1iiEZg==) base64(2FHeJw==) base64(4z2AUg==) base64(7T927g==) base64(7cfnOw==) base64(8rjzGA==)
+---
+> pushbytess base64(DHkeew==) base64(Df7RaQ==) base64(JAwmJw==) base64(M26NXw==) base64(TiKjug==) base64(WHWfog==) base64(Z0NAMQ==) base64(jxmvYg==) base64(lrdyyQ==) base64(pArgdA==) base64(pONJzg==) base64(yfUpOw==) base64(1YEBLQ==) base64(1iiEZg==) base64(2FHeJw==) base64(4z2AUg==) base64(7T927g==) base64(7cfnOw==) base64(8rjzGA==) // mod
+1169a1170,1171
+> pushint 7 // mod
+> shl // mod
+2769c2771
+< ==
+---
+> <= // mod
