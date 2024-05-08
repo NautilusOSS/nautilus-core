@@ -12,7 +12,7 @@ This repository contains the core smart contracts for Nautilus.
 - mp203 inactive
 - mp204 inactive
 - mp205 inactive
-- mp206 active `appId: 29117863` ("RTD")
+- [mp206 ("RTD")](https://github.com/NautilusOSS/nautilus-core/tree/main/smart-contracts/mp206) active `appId: 29117863` ("RTD")
 - mp207 TBD
 - mp208 TBD
 - mp209 TBD
