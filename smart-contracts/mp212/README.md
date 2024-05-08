@@ -6,3 +6,4 @@ Trustless p2p nft trading smart contract
 
 - [ ] add contract.json, arc4
 - [ ] add ulujs contract usage
+- [ ] follow mp206 structure
