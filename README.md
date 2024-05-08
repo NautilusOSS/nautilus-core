@@ -18,4 +18,4 @@ This repository contains the core smart contracts for Nautilus.
 - mp209 TBD
 - mp210 TBD
 - mp211 TBD
-- mp212 ("MechaSwap")
+- [mp212 ("MechaSwap")](https://github.com/NautilusOSS/nautilus-core/tree/main/smart-contracts/mp212)
