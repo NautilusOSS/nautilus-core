@@ -2,10 +2,10 @@
 
 **features**
 
-- list nfts in voi and arc200
-- adjustable fee
-- royalties using [AlgoSeas Royalty Enforcement System](https://docs.google.com/document/d/1x-cyLNMOm-E_ovnNdYs-B7UvRsA-bRMNqfQi_43IHXE/edit#heading=h.5maruhfqp5aw)
-- external voi and arc200 recovery
+- List nfts in voi and smart asset (arc200)
+- Adjustable fee
+- Royalties using [AlgoSeas Royalty Enforcement System](https://docs.google.com/document/d/1x-cyLNMOm-E_ovnNdYs-B7UvRsA-bRMNqfQi_43IHXE/edit#heading=h.5maruhfqp5aw)
+- External voi and arc200 recovery
 
 **source**
 
